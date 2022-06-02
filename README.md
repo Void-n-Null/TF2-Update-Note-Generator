@@ -2,8 +2,8 @@
 
 A simple markov chain based generator using the markovify python module and a dataset gathered from https://www.teamfortress.com/
 
-To use, first install markovify 
-```pip install markovify```
+To use, first install markovify  ```pip install markovify```
 
-and then run main.py by doing
-```python main.py``` or ```python dir/of/file/main.py```
+and then run main.py by doing ```python main.py``` or ```python3 main.py```
+
+<sub>written in Python 3.10</sub>
